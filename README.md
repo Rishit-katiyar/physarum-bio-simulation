@@ -20,6 +20,11 @@ Welcome to the Physarum Bio-Simulation repository! This project aims to simulate
 
 Physarum polycephalum is a species of slime mold that has garnered attention due to its remarkable abilities to navigate mazes, solve complex optimization problems, and exhibit emergent behaviors. This project seeks to create a computational model that mimics the behavior of Physarum polycephalum, providing insights into its underlying mechanisms and potential applications in various fields.
 
+<p align="center">
+  <img src="https://github.com/Rishit-katiyar/physarum-bio-simulation/assets/167756997/13b5a6a2-1ea4-4ff5-9fd2-1bbea761abc3" alt="Figure_134675" width="400"/>
+  <img src="https://github.com/Rishit-katiyar/physarum-bio-simulation/assets/167756997/966ba955-dbb6-46d6-a77a-c433a0e3619d" alt="Figure_1879554" width="400"/>
+</p>
+
 ## Biological Behavior
 
 ### Amoeboid Movement
