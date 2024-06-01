@@ -73,6 +73,11 @@ python main.py
 
 This will initiate the simulation, and you'll be able to observe the behavior of the simulated Physarum polycephalum. Feel free to modify the parameters and experiment with different settings to explore the behavior of the organism further.
 
+<p align="center">
+  <img src="https://github.com/Rishit-katiyar/physarum-bio-simulation/assets/167756997/e2ef3a7b-1758-4d0e-82c4-c9b7e9dcefd6" alt="Figure_1879554" width="400"/>
+  <img src="https://github.com/Rishit-katiyar/physarum-bio-simulation/assets/167756997/dfd247e7-3de2-4550-b9aa-d70660c9109f" alt="Figure_134675" width="400"/>
+</p>
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request. Together, we can improve and expand the capabilities of the Physarum bio-simulation.
