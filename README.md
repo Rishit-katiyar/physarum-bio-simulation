@@ -5,6 +5,7 @@
 
 
 
+
 # 🦠 Physarum Bio-Simulation
 
 Welcome to the Physarum Bio-Simulation repository! This project aims to simulate the behavior of Physarum polycephalum, also known as slime mold, using Python. Physarum polycephalum is a fascinating organism that exhibits complex behaviors, including movement, foraging, and problem-solving, despite being a unicellular organism.
